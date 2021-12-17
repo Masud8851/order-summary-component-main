@@ -120,8 +120,9 @@ main img{
 /* Under Footer Attribution */
 
 .attribution {
-  font-size: 11px;
+  font-size: 13px;
   text-align: center;
+  font-weight: 400;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
