@@ -37,3 +37,10 @@ main img{
 #text-content{
   padding: 2rem 2.5rem;
 }
+
+#text-content > h1{
+  color: hsl(223, 47%, 23%);
+  font-size: 1.7rem;
+  font-weight: 900;
+  margin-bottom: 1rem;
+}
