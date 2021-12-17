@@ -44,3 +44,21 @@ main img{
   font-weight: 900;
   margin-bottom: 1rem;
 }
+
+.plan{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  background: hsl(225, 100%, 98%);
+  margin-top: 1.3rem;
+  padding: 1rem 1.3rem;
+  border-radius: 1rem;
+}
+
+.annual-plan{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  text-align: left;
+}
