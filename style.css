@@ -79,3 +79,8 @@ main img{
   flex-direction: column;
   justify-content: space-between;
 }
+
+.plan a {
+  color: hsl(245, 75%, 52%);
+  font-weight: 700;
+}
