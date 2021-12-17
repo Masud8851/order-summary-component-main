@@ -20,3 +20,16 @@ body{
   background-size: contain;
   background-position: -15%;
 }
+
+main{
+  max-width: 425px;
+  overflow: hidden;
+  margin: 2rem;
+  border-radius: 1rem;
+  background: white;
+  box-shadow: 0 1rem 1rem 0 rgba(0, 0, 0, 0.11);
+}
+
+main img{
+  max-width: 100%;
+}
