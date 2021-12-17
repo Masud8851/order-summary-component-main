@@ -67,3 +67,15 @@ main img{
   width: 2.5rem;
   height: 2.5rem;
 }
+
+.annual-plan h2 {
+  font-size: 1rem;
+  font-weight: 900;
+  color: hsl(223, 47%, 23%);
+}
+
+.annual-plan .price {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
