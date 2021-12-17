@@ -117,6 +117,8 @@ main img{
   color: hsl(223, 47%, 23%);
 }
 
+/* Under Footer Attribution */
+
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -128,6 +130,9 @@ main img{
   color: hsl(245, 75%, 62%);
   text-decoration: none;
 }
+
+
+/* Responsive Section Media Query */
 
 @media (max-width: 426px){
   body{
