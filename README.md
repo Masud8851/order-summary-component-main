@@ -18,9 +18,9 @@ https://github.com/Masud8851/order-summary-component-main
 
 ## Built with
 
--HTML
+- HTML
 
--CSS Flexbox
+- CSS Flexbox
 
 ## Author
 
