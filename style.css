@@ -106,11 +106,37 @@ main img{
 #text-content button:hover {
   background: hsl(245, 75%, 62%);
 }
+
 #text-content > a {
   color: hsl(224, 23%, 55%);
   text-decoration: none;
   font-weight: 900;
 }
+
 #text-content > a:hover {
   color: hsl(223, 47%, 23%);
+}
+
+@media (max-width: 426px){
+  body{
+    background: url(./images/pattern-background-mobile.svg) no-repeat, hsl(255, 100%, 94%);
+    background-size: contain;
+  }
+
+  main{
+    margin: 5rem 2rem;
+  }
+
+  #text-content {
+    padding: 2rem 3rem;
+  }
+}
+
+@media (max-width: 420px) {
+  main {
+    margin: 5rem 1rem;
+  }
+  #text-content {
+    padding: 0.5rem;
+  }
 }
