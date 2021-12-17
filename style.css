@@ -84,3 +84,8 @@ main img{
   color: hsl(245, 75%, 52%);
   font-weight: 700;
 }
+
+.plan a:hover {
+  text-decoration: none;
+  color: hsl(245, 75%, 62%);
+}
