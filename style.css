@@ -62,3 +62,8 @@ main img{
   gap: 1rem;
   text-align: left;
 }
+
+.annual-plan img {
+  width: 2.5rem;
+  height: 2.5rem;
+}
