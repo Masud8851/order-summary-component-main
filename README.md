@@ -11,7 +11,7 @@ Thanks for cheking out this repository.
 It's a solution of a newbie challange called "Order summary component" made by Frontend Mentor.
 
 Here is the link of the challange-
-https://www.frontendmentor.io/solutions/responsive-order-summary-component-using-css-flex-j27lUerO_
+https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
 
 Here is the solution site url-
 https://github.com/Masud8851/order-summary-component-main
