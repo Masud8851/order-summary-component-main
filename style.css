@@ -33,3 +33,7 @@ main{
 main img{
   max-width: 100%;
 }
+
+#text-content{
+  padding: 2rem 2.5rem;
+}
